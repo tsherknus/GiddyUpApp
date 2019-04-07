@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "727701379687",
+    "firebase_url": "https://giddyup-b0587.firebaseio.com",
+    "project_id": "giddyup-b0587",
+    "storage_bucket": "giddyup-b0587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727701379687:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727701379687-93538elfoe0iev9q2as32sp8ufmdk9sd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.uber",
+            "certificate_hash": "fdae13238532d78dd6973db9c20fe2cc7cd8c3b1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBT32HjHCmGD3FTvrFLu_3gmT_r97bNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727701379687-erdj3v2vr9g8qdj5h01kv1vkd0r9astt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
